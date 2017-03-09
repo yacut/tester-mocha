@@ -10,5 +10,5 @@
 ## 0.2.2
 * fix modified behavior
 
-## 0.2.3
+## 0.2.5
 * add stop functionality
