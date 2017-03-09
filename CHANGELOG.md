@@ -8,4 +8,7 @@
 * add args to settings
 
 ## 0.2.2
-* fix modified behavior 
+* fix modified behavior
+
+## 0.2.3
+* add stop functionality
