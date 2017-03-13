@@ -12,3 +12,6 @@
 
 ## 0.2.5
 * add stop functionality
+
+## 0.2.6
+* remove "bad" args from command

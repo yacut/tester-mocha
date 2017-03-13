@@ -41,7 +41,7 @@
       "default": ""
     },
     "args": {
-      "title": "List of additional args to run Mocha.",
+      "title": "List of additional args to run Mocha. Forbidden: '--reporter', '-R', '--watch', '-w'.",
       "type": "array",
       "default": [
         "--colors"
