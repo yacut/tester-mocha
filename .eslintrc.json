@@ -28,12 +28,15 @@
       "global-require": 0,
       "strict": 0,
       "class-methods-use-this": 0,
-      "no-console": 0,
       "no-param-reassign": 0,
       "no-useless-escape": 0,
       "prefer-rest-params": 0,
-      "max-len": 0,
       "react/jsx-filename-extension": 0,
-      "react/sort-comp": 0
+      "react/sort-comp": 0,
+      "import/prefer-default-export": 0,
+      "class-methods-use-this": 0,
+      "no-confusing-arrow": 0,
+      "max-len": [2, 120],
+      "no-console": [1, { "allow": ["warn", "error"] }]
     }
 }
