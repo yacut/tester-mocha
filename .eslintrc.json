@@ -8,8 +8,7 @@
     "env": {
       "atomtest": true,
       "es6": true,
-      "jasmine": true,
-      "node": true
+      "jasmine": true
     },
     "globals": {
       "atom": false,
