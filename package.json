@@ -53,8 +53,8 @@
   },
   "dependencies": {
     "atom-package-deps": "^4.4.1",
+    "bluebird": "^3.5.0",
     "error-stack-parser": "^2.0.0",
-    "lodash": "^4.17.4",
     "mocha": "^3.2.0"
   },
   "package-deps": [
