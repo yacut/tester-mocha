@@ -1,7 +1,6 @@
 'use babel';
 
 /* @flow */
-import Promise from 'bluebird';
 import * as jestRunner from '../lib/spawn-runner';
 import { textEditor } from './fixtures';
 import { provideTester } from '../lib/tester-mocha';
