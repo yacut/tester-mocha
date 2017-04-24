@@ -25,8 +25,8 @@ export const processOutput = `
     ✓ should pass
   Some mocha tests
     1) should failed
-{"state":"passed","title":"should pass","duration":0,"lineNumber":0,"filePath":"${pathToFile}"}
-{"state":"failed","title":"should failed","duration":0,"lineNumber":1,"filePath":"${pathToFile}"}
+###tester-mocha-event###{"state":"passed","title":"should pass","duration":0,"lineNumber":0,"filePath":"${pathToFile}"}
+###tester-mocha-event###{"state":"failed","title":"should failed","duration":0,"lineNumber":1,"filePath":"${pathToFile}"}
 
 2 passing (1ms)`;
 
