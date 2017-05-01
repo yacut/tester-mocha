@@ -52,9 +52,9 @@
     }
   },
   "dependencies": {
-    "atom-package-deps": "^4.6.0",
-    "error-stack-parser": "^2.0.0",
-    "mocha": "^3.2.0"
+    "atom-package-deps": "4.6.0",
+    "error-stack-parser": "2.0.1",
+    "mocha": "3.3.0"
   },
   "package-deps": [
     "tester"
@@ -67,10 +67,10 @@
     }
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
-    "eslint": "^3.16.1",
-    "eslint-config-airbnb-base": "^11.1.0",
-    "eslint-plugin-flowtype": "^2.32.1",
-    "eslint-plugin-import": "^2.2.0"
+    "babel-eslint": "7.2.3",
+    "eslint": "3.19.0",
+    "eslint-config-airbnb-base": "11.1.3",
+    "eslint-plugin-flowtype": "2.32.1",
+    "eslint-plugin-import": "2.2.0"
   }
 }
