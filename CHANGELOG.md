@@ -1,3 +1,7 @@
+## 1.0.0
+* :gift: add support for project test
+* :bug: various bug fixes
+
 ## 0.3.0
 * remove 'test on change' feature
 
