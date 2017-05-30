@@ -32,7 +32,7 @@ describe('tester-mocha', () => {
 
   it('should provide stop function and call "spawn-runner.stop"', () => {
     spyOn(jestRunner, 'stop');
-    provideTester().stop(textEditor);
+    provideTester().stop();
     expect(jestRunner.stop).toHaveBeenCalled();
   });
 });

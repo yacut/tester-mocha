@@ -41,7 +41,7 @@ export const textEditor = {
     return 'text';
   },
   scan(regex/* :string|RegExp*/, callback/* :()=>void*/) {
-    callback({ row: 0 });
+    callback();
   },
   onDidDestroy(destroy/* :any*/) {
     this.destroy = destroy;
