@@ -1,5 +1,6 @@
 # Tester Mocha
 
+[![Donate Bitcoin](https://img.shields.io/badge/donate-bitcoin-orange.svg)](https://blockchain.info/payment_request?address=1Ndg2GN1r4UfyqBtAUgLmVVjv8a9xYokU5&message=I+like+your+GitHub+Project!)
 ![Build Status](https://travis-ci.org/yacut/tester-mocha.svg)
 [![APM Version](https://img.shields.io/apm/v/tester-mocha.svg)](https://atom.io/packages/tester-mocha)
 [![APM Downloads](https://img.shields.io/apm/dm/tester-mocha.svg)](https://atom.io/packages/tester-mocha)
